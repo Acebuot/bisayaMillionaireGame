@@ -1,0 +1,17 @@
+[
+	{
+		"uri": "ms-appx:///Assets/quechon2.mp4",
+		"answer": "lami",
+		"decoy": [ "ka'yg", "linutoan", "imong", "mama" ]
+	},
+	{
+		"uri": "ms-appx:///Assets/quechon3.mp4",
+		"answer": "kaayo",
+		"decoy": [ "baho", "ka'g", "itlog" ]
+	},
+	{
+	 "uri":"ms-appx:///Assets/quechon4.mp4",
+		"answer": "tan-awa",
+		"decoy": ["kai-nga", "bae", "bai", "gwapa", "gani"]
+	}
+]
